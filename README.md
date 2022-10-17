@@ -1,6 +1,6 @@
 <h3>Toy Robot Simulator</h3>
 <img src = "https://github.com/jeff1978/Toy-Robot-Simulator/blob/master/robot.jpg" align = right>
-This C# .NET solution is a simulator of a toy robot that moves on a tabletop. The development of this project is driven by unit tests. These are included in this repository. A full requirements specification can be found here:<br><a href = "https://github.com/jeff1978/Toy-Robot-Simulator/blob/master/ToyRobotSimulator/App%20Specification.txt">App Specification.txt</a>
+This C# .NET solution is a simulator of a toy robot that moves on a tabletop. The development of this project is driven by unit tests. These are included in this repository.
 <br><h4>Design Patterns Used</h4>
 <b>Command :</b>
 <br>A class is used to represent user input data, validate it and return appropriate object types or error messages. The class has no dependencies and it's methods are unit tested before being set to work with the rest of the application.
